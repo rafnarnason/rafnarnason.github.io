@@ -3,5 +3,5 @@ plugins:
 - jekyll-remote-theme
 title: [Rafn Árnason]
 description: [asdf]
-show_downloads: [false]
+show_downloads: ["false"]
 google_analytics: [G-C3D4DFMJ9M]
